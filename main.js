@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Shit On Top Of The World -_-` ";
+var truth = "Shit Inside The World -_-` ";
